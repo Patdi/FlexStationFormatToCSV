@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 
 #Converts a Molecular Devices FlexStation 3 Microplate Reader .csv file to a easier to use format
-#On the command line run: cat your_file.csv | alex.py > output.csv
+#On the command line run: cat "your_file".csv | FlexStationFormatToCSV.py > "your_output".csv
 #If you use the wildcard * you can run it on all your files at once
 
 import re
