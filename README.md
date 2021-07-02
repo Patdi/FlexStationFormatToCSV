@@ -1,7 +1,7 @@
 # FlexStationFormatToCSV
 Converts a Molecular Devices FlexStation 3 Microplate Reader .csv file to a easier to use format
 
-The output from the Microplate reader places each plate in a separate block. Ex:  
+The output from the Microplate reader .csv format places each plate in a separate block. Ex:  
 
 Plate:	Row13_DMI_t0	1.3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temperature(C)	A1  
