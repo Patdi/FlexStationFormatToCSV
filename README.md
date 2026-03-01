@@ -18,7 +18,7 @@
 
   <h2>Overview</h2>
   <p>
-    The output from the Microplate Reader CSV format places each plate in a separate block.
+    Certain instruments like the Microplate Reader output in block CSV format where each plate data is in a separate block (See Example Below).
     This script converts that block-based (horizontal) layout into a flat CSV format that is
     easier to analyze in spreadsheets, scripts, or downstream pipelines.
   </p>
