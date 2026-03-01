@@ -92,7 +92,7 @@ Temperature(C),A1
   <h2>Why did I make this? Why not?</h2>
   <ul>
     <li>Block-based output isn't fun to work with</li>
-    <li>This script block-based instrument exports into tabular CSV data</li>
+    <li>This script allows the user to go from block-based instrument exports to tabular CSV data</li>
     <li>Makes downstream analysis easier in Python/R/Excel</li>
     <li>Simplifies batch processing of multiple files</li>
   </ul>
